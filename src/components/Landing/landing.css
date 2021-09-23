@@ -1,0 +1,26 @@
+.intro {
+    background-image: url('../../images/landing-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1500px;
+}
+
+.intro h1 {
+    font-size: 120px;
+    font-family: 'Gothic';
+}
+
+.intro h3 {
+    font-size: 60px;
+    font-family: 'Gothic';
+}
+
+.landing__group {
+    display: flex;
+    flex-direction: row;
+}
+
+.landing__item {
+    flex: 1;
+    margin: 15px;
+}
