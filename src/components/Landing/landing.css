@@ -1,18 +1,22 @@
 .intro {
-    background-image: url('../../images/landing-background.jpg');
+    background-image: url('../../images/landing-background-2.jpg');
+    background-position: center top;
+    background-size: 100%;
     background-repeat: no-repeat;
-    background-size: cover;
-    height: 1500px;
+    height: 1075px;
+    padding-top: 275px;
 }
 
 .intro h1 {
     font-size: 120px;
     font-family: 'Gothic';
+    color: white;
 }
 
 .intro h3 {
     font-size: 60px;
     font-family: 'Gothic';
+    color: white;
 }
 
 .landing__group {
